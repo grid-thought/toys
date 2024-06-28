@@ -9,7 +9,7 @@ def rainbow_text(text):
         "\033[94m",  # Blue
         "\033[95m"   # Purple
     ]
-    reset_color = "\033[0m"  # Reset color to default
+    reset_color = "\033[0m"
 
     while True:
         for color in rainbow_colors:

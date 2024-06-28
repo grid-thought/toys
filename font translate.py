@@ -20,3 +20,6 @@ while True:
         break
     translated_string = translate_to_square_chars(input_string)
     print("Translated string:", translated_string)
+
+    # SIDENOTE: Press the windows key and type 'char' to get the character map of all unicode on your system.
+    # You can use this code to make your own unicode fonts!
